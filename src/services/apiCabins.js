@@ -36,10 +36,7 @@ export async function createEditCabin(newCabin, id){
         .eq('id', id)
         .select()
 
-
     const {data, error} = await query.select().single();
-
-
 
     if (error) {
         console.error(error);
@@ -64,7 +61,7 @@ export async function createEditCabin(newCabin, id){
     return data;
 }
 
-export async function deleteCabins(id){
+export async function deleteCabin(id){
 
     const { error } = await supabase
         .from('cabins')
