@@ -4,7 +4,6 @@ import CabinTable from "../features/cabins/CabinTable.jsx";
 import AddCabin from "../features/cabins/AddCabin.jsx";
 import CabinTableOperations from "../features/cabins/CabinTableOperations.jsx";
 
-
 function Cabins() {
     return (
         <>
