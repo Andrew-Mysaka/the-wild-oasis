@@ -3,13 +3,20 @@ import Button from "../../ui/Button";
 import Form from "../../ui/Form";
 import FormRow from "../../ui/FormRow";
 import Input from "../../ui/Input";
+import {useSignup} from "./useSignup.js";
 
 function SignupForm() {
+    const { signup, isLoading } = useSignup();
     const { register, formState, getValues, handleSubmit, reset } = useForm();
     const { errors } = formState;
 
     function onSubmit({ fullName, email, password }) {
-
+        signup(
+            { fullName, email, password },
+            {
+                onSettled: () => reset(),
+            }
+        );
     }
 
     return (
