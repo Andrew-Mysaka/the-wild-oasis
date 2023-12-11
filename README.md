@@ -52,8 +52,7 @@ I believe the best approach to learning something new is <strong>"Learning by Do
 ## Demonstration 🖥️
 
 #### Login Page
-
-<img src="public/screenshot/Screenshot_The_Wild_Oasis_9.png" style="max-width:100%;">
+<img src="./public/Screenshot/Screenshot_The_Wild_Oasis_9.png" style="max-width:100%;">
 
 #### Dashboard Page (Light / Dark Theme)
 
