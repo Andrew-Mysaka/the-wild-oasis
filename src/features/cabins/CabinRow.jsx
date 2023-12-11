@@ -35,16 +35,16 @@ const Cabin = styled.div`
   font-size: 1.6rem;
   font-weight: 600;
   color: var(--color-grey-600);
-  font-family: "Sono";
+  font-family: "Sono",serif;
 `;
 
 const Price = styled.div`
-  font-family: "Sono";
+  font-family: "Sono",serif;
   font-weight: 600;
 `;
 
 const Discount = styled.div`
-  font-family: "Sono";
+  font-family: "Sono",serif;
   font-weight: 500;
   color: var(--color-green-700);
 `;
@@ -91,7 +91,7 @@ function CabinRow({ cabin }) {
                         <Menus.Toggle id={cabinId} />
 
                         <Menus.List id={cabinId}>
-                            <Menus.Button icon={<HiSquare2Stack />} onClick={handleDuplicate}>
+                            <Menus.Button icon={<HiSquare2Stack />} onClick={handleDuplicate} disabled={isCreating}>
                                 Duplicate
                             </Menus.Button>
 
