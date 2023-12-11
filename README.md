@@ -56,29 +56,29 @@ I believe the best approach to learning something new is <strong>"Learning by Do
 
 #### Dashboard Page (Light / Dark Theme)
 
-<img src="./public/screenshot/Screenshot_The_Wild_Oasis_1.png" style="max-width:100%;">
+<img src="./public/Screenshot/Screenshot_The_Wild_Oasis_1.png" style="max-width:100%;">
 
-<img src="./public/screenshot/Screenshot_The_Wild_Oasis_2.png" style="max-width:100%;">
+<img src="./public/Screenshot/Screenshot_The_Wild_Oasis_2.png" style="max-width:100%;">
 
 #### Bookings Details
 
-<img src="./public/screenshot/Screenshot_The_Wild_Oasis_3.png" style="max-width:100%;">
+<img src="./public/Screenshot/Screenshot_The_Wild_Oasis_3.png" style="max-width:100%;">
 
-<img src="./public/screenshot/Screenshot_The_Wild_Oasis_8.png" style="max-width:100%;">
+<img src="./public/Screenshot/Screenshot_The_Wild_Oasis_8.png" style="max-width:100%;">
 
 #### Cabins Details
 
-<img src="./public/screenshot/Screenshot_The_Wild_Oasis_4.png" style="max-width:100%;">
+<img src="./public/Screenshot/Screenshot_The_Wild_Oasis_4.png" style="max-width:100%;">
 
-<img src="./public/screenshot/Screenshot_The_Wild_Oasis_5.png" style="max-width:100%;">
+<img src="./public/Screenshot/Screenshot_The_Wild_Oasis_5.png" style="max-width:100%;">
 
 #### Users Profile Update Page
 
-<img src="./public/screenshot/Screenshot_The_Wild_Oasis_7.png" style="max-width:100%;">
+<img src="./public/Screenshot/Screenshot_The_Wild_Oasis_7.png" style="max-width:100%;">
 
 #### Create new user Page
 
-<img src="./public/screenshot/Screenshot_The_Wild_Oasis_6.png" style="max-width:100%;">
+<img src="./public/Screenshot/Screenshot_The_Wild_Oasis_6.png" style="max-width:100%;">
 
 ## 💻 Technology Used
 
